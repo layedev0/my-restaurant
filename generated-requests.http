@@ -1,0 +1,4 @@
+###
+GET http://localhost:8085/api/v1/meals/all
+
+<> 2025-10-28T114500.200.json
